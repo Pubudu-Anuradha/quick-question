@@ -1,6 +1,6 @@
 # quick-question
 
-Easy configurable problem+testing starter generation aimed at problem setting for competitive programming competitions.
+Easy configurable problem+testing starter generator aimed at problem setting for competitive programming competitions.
 
 ## Requirements
 
